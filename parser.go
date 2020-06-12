@@ -7,7 +7,7 @@ import (
 
 type section struct {
 	name string
-	 []strings
+	contents []string
 }
 
 func parseTodo(todofile []byte) {
