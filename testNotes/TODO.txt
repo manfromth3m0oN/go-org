@@ -4,18 +4,17 @@
 
 ==PROJECTS==
 * go-org (~/go/src/github.com/manfromth3m0on/go-org)
-    * Finish the goddamn program
-        * write the parser [[19/6/20]]
-            * detecting indentation levels
-        * figure out how to daemonize it [[26/6/20]]
-        * make a tui [[28/6/20]]
-            * investigate TUI libs
-        * do server side stuff
-
+	* Finish the goddamn program
+	* write the parser [[19/6/20]]
+		* detecting indentation levels
+	* figure out how to daemonize it [[26/6/20]]
+	* make a tui [[28/6/20]]
+		* investigate TUI libs
+	* do server side stuff
 * window manager (~/go/src/github.com/manfromth3m0on/go-org)
-    * make closing window work properly
+	* make closing window work properly
 
 ==NOTES==
-Programming
-School
-Blog
+> Programming
+> School
+> Blog

@@ -1,5 +1,7 @@
 # go-org
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/manfromth3m0oN/go-org)](https://goreportcard.com/report/github.com/manfromth3m0oN/go-org)
+
 A text editor agnostic org style organisational tool 
 
 ---
