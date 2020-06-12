@@ -28,11 +28,11 @@ Both yesterday and tomorrows sections will be populated also (maybe idk).
 
 Sections are denoted with fields wrapped in ==. Known sections are:
 * `==TODAY==` - Todos to be done today, becomes yesterday is then archived
-* `==PROJECTS==` - Where todos for one's projects live, they can be given dates with the [[]]
+* `==PROJECTS==` - Where todos for one's projects live, they can be given dates with the `[[]]`
 
 ### Referencing
 
-You can reference a todo item with the syntax %<project name>.<heading level>.<subheading level>
+You can reference a todo item with the syntax `%<project name>.<heading level>.<subheading level>`
 
 ## The plan
 
@@ -58,15 +58,10 @@ asterisk (*) notation. E.g:
 A second heading
 ```
 
-Files will automatically generate 'contents pages' if desired.
-This feature will be able to be turned off with either a conf option
-or something within the file its self.
-
 Parsing will accomplish:
-1. Generating contents
+1. Creating & verifying the file structure
 2. creating desired markup
 3. include code snippets either locally or from github
-4. 
 
 ### Sharing and serving
 
