@@ -12,13 +12,12 @@ type section struct {
 }
 
 type todo struct {
-	level int
+	level    int
 	contents string
-	parent *todo
+	parent   *todo
 	children []*todo
-	path string
+	path     string
 }
-
 
 var sections map[string]section
 var sectionRegex string = "==\\w+=="
